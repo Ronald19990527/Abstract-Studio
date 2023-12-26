@@ -17,3 +17,31 @@ _Algunas imágenes de cada una de las secciones del ejercicio se muestran a cont
 [Abstract-Studio-image-6](assets/abstract-studio-image-6.JPG "Abstract-Studio-image-6")
 
 [Abstract-Studio-image-7](assets/abstract-studio-image-7.JPG "Abstract-Studio-image-7")
+
+[Abstract-Studio-image-8](assets/abstract-studio-image-8.JPG "Abstract-Studio-image-8")
+
+[Abstract-Studio-image-9](assets/abstract-studio-image-9.JPG "Abstract-Studio-image-9")
+
+[Abstract-Studio-image-10](assets/abstract-studio-image-10.JPG "Abstract-Studio-image-10")
+
+[Abstract-Studio-image-11](assets/abstract-studio-image-11.JPG "Abstract-Studio-image-11")
+
+[Abstract-Studio-image-12](assets/abstract-studio-image-12.JPG "Abstract-Studio-image-12")
+
+[Abstract-Studio-image-13](assets/abstract-studio-image-13.JPG "Abstract-Studio-image-13")
+
+## _Responsive Design_
+
+[Abstract-Studio-image-14](assets/abstract-studio-image-14.JPG "Abstract-Studio-image-14")
+
+[Abstract-Studio-image-15](assets/abstract-studio-image-15.JPG "Abstract-Studio-image-15")
+
+[Abstract-Studio-image-16](assets/abstract-studio-image-16.JPG "Abstract-Studio-image-16")
+
+[Abstract-Studio-image-17](assets/abstract-studio-image-17.JPG "Abstract-Studio-image-17")
+
+[Abstract-Studio-image-18](assets/abstract-studio-image-18.JPG "Abstract-Studio-image-18")
+
+[Abstract-Studio-image-19](assets/abstract-studio-image-19.JPG "Abstract-Studio-image-19")
+
+[Abstract-Studio-image-20](assets/abstract-studio-image-20.JPG "Abstract-Studio-image-20")
